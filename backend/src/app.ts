@@ -29,7 +29,7 @@ export const startServer = async ()=>{
     const server = new ApolloServer({
         typeDefs,
         resolvers,
-        context:({req})=>buildContext(req),
+        context:({req})=>buildContext(req)
     });
     await server.start();
     server.applyMiddleware({app});
