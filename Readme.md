@@ -1,8 +1,2 @@
 a video handling and rendering platform
 
-
-CLOUDINARY_API_KEY=657285379964665
-CLOUDINARY_API_SECRET=fQnQchyQZWO8lmBsD17-o1v0myo
-CLOUDINARY_NAME=dky1vvtql
-
-CLOUDINARY_URL=cloudinary://<657285379964665>:<fQnQchyQZWO8lmBsD17-o1v0myo>@dky1vvtql
